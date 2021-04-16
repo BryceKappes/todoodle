@@ -18,8 +18,8 @@ function Nav() {
           <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
             <ReactBootStrap.Nav className="mr-auto">
-              <ReactBootStrap.Nav.Link as={Link} to="/messages">
-                Messages
+              <ReactBootStrap.Nav.Link as={Link} to="/">
+                Home
               </ReactBootStrap.Nav.Link>
               <ReactBootStrap.Nav.Link as={Link} to="/profile">
                 Profile
