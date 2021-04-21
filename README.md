@@ -126,6 +126,6 @@ KAPSTONE DEV PLAN
             -When the user deletes the todo they will no longer see it when they log out and then back in. 
             -You will essentially be matching the todo id you want to delete and filtering it out of the list.
 
-Reference: John Anderson, Gabby, Todo App Assignment, 
+Reference: John Anderson, Gabby, Todo App Assignment, Kwitter project 
 
 Author: Bryce Kappes, John Cook, Eric Steinke, Isaac Kottlowski
