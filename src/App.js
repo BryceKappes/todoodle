@@ -4,7 +4,7 @@ import Header from "./components/Header"
 import NotFound from "./components/NotFound"
 import Todoodle from "./views/Todoodle"
 import Home from "./views/Home"
-
+import Login from "./components/Login"
 function App(){
   return (
     <>
@@ -12,6 +12,7 @@ function App(){
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/todoodle" component={Todoodle} />
+        <Route path="/login" component={Login} />
         <Route path="/" component={NotFound} />
       </Switch>
     </>
