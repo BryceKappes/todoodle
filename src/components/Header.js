@@ -14,7 +14,8 @@ function findUser() {
         <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
           <ReactBootStrap.Nav className="mr-auto">
             <ReactBootStrap.Nav.Link as={Link} to="/todoodle">Todoodle</ReactBootStrap.Nav.Link>
-            <ReactBootStrap.Nav.Link as={Link} to="/profile">Profile</ReactBootStrap.Nav.Link>
+            
+            <ReactBootStrap.Nav.Link as={Link} to="/login">Logout</ReactBootStrap.Nav.Link>
             <input placeholder="Search User" onSubmit={findUser}></input>
             {/* <div id="logout"> {user.token && <Button variant="secondary" onClick={logout}>Logout</Button>}</div> */}
             <ReactBootStrap.Nav.Link eventKey={2} as={Link} to="/">

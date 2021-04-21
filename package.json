@@ -15,7 +15,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-sticky-nav": "^4.0.6",
-    "web-vitals": "^1.1.1"
+    "web-vitals": "^1.1.1",
+    "zustand": "^3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
