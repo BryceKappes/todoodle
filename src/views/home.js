@@ -82,11 +82,10 @@ function Home() {
   }
 
   return (
-    <>
-    <div id="youtube">
-      <Youtube/>
-    </div>
-    <div id="todo-container">
+    <div className="todo-container">
+      <div id="youtube">
+        <Youtube/>
+      </div>
       <TodosContext.Provider value={dispatch}>
         <Route exact path="/">
           <section className="todoapp">
@@ -171,8 +170,7 @@ function Home() {
           </section>
         </Route>
       </TodosContext.Provider>
-      </div>
-    </>
+    </div>
   );
 }
 

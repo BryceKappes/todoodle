@@ -5,10 +5,14 @@ import DrawingBoard from 'react-drawing-board';
   function Todoodle(){
         
   return (
-    <>
+    <div className="todo-container">
+      <div id="youtube">
         <Youtube/>
-        <DrawingBoard />
-    </>
+      </div>
+      <div id="drawing-board">
+        <DrawingBoard className="drawing-board"/>
+      </div>
+    </div>
   )
 }
 

@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import { REGISTRATION, useStore } from "../store/store"
-
-
 function Registration(props) {
 const dispatch = useStore((state) => state.dispatch);
 const [userData, setUserData] = useState({
@@ -16,11 +14,9 @@ const regReq = (username, password) => {
       username,
       password,
     }),
-  
   }).then((res) => res.json())
   )
 };
-
   const handleRegistration = (e) => {
     e.preventDefault();
       regReq(userData.username, userData.password).then((data) => 
@@ -28,14 +24,11 @@ const regReq = (username, password) => {
       )
      setUserData('');
   }
-
   const handleChange = (e) => {
     setUserData((state) => ({ ...state, [e.target.name]: e.target.value }))
   }
-
   return (
     <>
-
       <form id="registration-form" onSubmit={handleRegistration} >
         <label htmlFor="reg-username">Username</label>
         <input
@@ -59,5 +52,4 @@ const regReq = (username, password) => {
     </>
   )
 }
-
 export default Registration
