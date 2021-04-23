@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BryceKappes/todoodle.git/static/css/main.47cb2c53.chunk.css",
+    "main.js": "/BryceKappes/todoodle.git/static/js/main.da284112.chunk.js",
+    "main.js.map": "/BryceKappes/todoodle.git/static/js/main.da284112.chunk.js.map",
+    "runtime-main.js": "/BryceKappes/todoodle.git/static/js/runtime-main.5b4cd888.js",
+    "runtime-main.js.map": "/BryceKappes/todoodle.git/static/js/runtime-main.5b4cd888.js.map",
+    "static/css/2.aea14d57.chunk.css": "/BryceKappes/todoodle.git/static/css/2.aea14d57.chunk.css",
+    "static/js/2.119c00ee.chunk.js": "/BryceKappes/todoodle.git/static/js/2.119c00ee.chunk.js",
+    "static/js/2.119c00ee.chunk.js.map": "/BryceKappes/todoodle.git/static/js/2.119c00ee.chunk.js.map",
+    "static/js/3.822d7fad.chunk.js": "/BryceKappes/todoodle.git/static/js/3.822d7fad.chunk.js",
+    "static/js/3.822d7fad.chunk.js.map": "/BryceKappes/todoodle.git/static/js/3.822d7fad.chunk.js.map",
+    "index.html": "/BryceKappes/todoodle.git/index.html",
+    "static/css/2.aea14d57.chunk.css.map": "/BryceKappes/todoodle.git/static/css/2.aea14d57.chunk.css.map",
+    "static/css/main.47cb2c53.chunk.css.map": "/BryceKappes/todoodle.git/static/css/main.47cb2c53.chunk.css.map",
+    "static/js/2.119c00ee.chunk.js.LICENSE.txt": "/BryceKappes/todoodle.git/static/js/2.119c00ee.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BryceKappes/todoodle.git/static/media/hole.f20280ef.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b4cd888.js",
+    "static/css/2.aea14d57.chunk.css",
+    "static/js/2.119c00ee.chunk.js",
+    "static/css/main.47cb2c53.chunk.css",
+    "static/js/main.da284112.chunk.js"
+  ]
+}
