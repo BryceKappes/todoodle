@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-
+import { Card } from "react-bootstrap"
 
 function Users() {
   const [users, setUsers] = useState([]);
@@ -14,20 +14,21 @@ function Users() {
   }, [])
 
   return (
-    <div>
-      <h1>Users List</h1>
-
+ 
+      <div>
+        <h1>Users List</h1>
       {
         users.map((user) => {
-          return( <ul>
-            <li key={user.id}>
-								Username: {user.username}
-            	<br/>
-                Created At: {user.created}
-            </li>
-        </ul>
+      return( 
+      <Card style={{ width: '18rem' }}>
+        <Card.Body>
+          <Card.Title>Username: {user.username}</Card.Title>
+          <Card.Text>Created At: {user.created}</Card.Text>
+        </Card.Body>
+      </Card>
           )
-        })
+        }
+       )
       }
     </div>
   )
