@@ -4,7 +4,8 @@ import { Card } from "react-bootstrap"
 function Users() {
   const [users, setUsers] = useState([]);
   const getUsers = () => {
-    return fetch("http://localhost:4000/users").then((res) => res.json());
+    return fetch("https://changeable-pumped-coin.glitch.me/users").
+		then((res) => res.json());
   };
   useEffect(() => {
     getUsers()
