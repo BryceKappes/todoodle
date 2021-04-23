@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "title": "delectus aut autem",
+    "title": "Date night on Sunday",
     "completed": false
   },
   {
     "id": 2,
-    "title": "quis ut nam facilis et officia qui",
+    "title": "Go to Kay Jewelers, buy wifey an expensive gift",
     "completed": false
   },
   {
     "id": 3,
-    "title": "fugiat veniam minus",
+    "title": "Take trash out",
     "completed": false
   },
   {
     "id": 4,
-    "title": "et porro tempora",
-    "completed": true
+    "title": "Homework",
+    "completed": false
   },
   {
     "id": 5,
-    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "title": "Grocery shopping",
     "completed": false
   }
 ]
