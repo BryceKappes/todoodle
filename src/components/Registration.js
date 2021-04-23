@@ -7,7 +7,7 @@ const [userData, setUserData] = useState({
   password: '',
 })
 const regReq = (username, password) => {
-  return (fetch("http://localhost:4000/users", {
+  return (fetch("https://changeable-pumped-coin.glitch.me/users", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
