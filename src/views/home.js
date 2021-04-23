@@ -80,7 +80,6 @@ function Home() {
   function clearComplete(event) {
     dispatch({type: "CLEAR_COMPLETE"})
   }
-
   return (
     <>
       <TodosContext.Provider value={dispatch}>
