@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/BryceKappes/todoodle/static/css/main.6f2c0c21.chunk.css",
-    "main.js": "/BryceKappes/todoodle/static/js/main.903c789b.chunk.js",
-    "main.js.map": "/BryceKappes/todoodle/static/js/main.903c789b.chunk.js.map",
-    "runtime-main.js": "/BryceKappes/todoodle/static/js/runtime-main.81c458a5.js",
-    "runtime-main.js.map": "/BryceKappes/todoodle/static/js/runtime-main.81c458a5.js.map",
-    "static/css/2.aea14d57.chunk.css": "/BryceKappes/todoodle/static/css/2.aea14d57.chunk.css",
-    "static/js/2.4032480d.chunk.js": "/BryceKappes/todoodle/static/js/2.4032480d.chunk.js",
-    "static/js/2.4032480d.chunk.js.map": "/BryceKappes/todoodle/static/js/2.4032480d.chunk.js.map",
-    "static/js/3.822d7fad.chunk.js": "/BryceKappes/todoodle/static/js/3.822d7fad.chunk.js",
-    "static/js/3.822d7fad.chunk.js.map": "/BryceKappes/todoodle/static/js/3.822d7fad.chunk.js.map",
-    "index.html": "/BryceKappes/todoodle/index.html",
-    "static/css/2.aea14d57.chunk.css.map": "/BryceKappes/todoodle/static/css/2.aea14d57.chunk.css.map",
-    "static/css/main.6f2c0c21.chunk.css.map": "/BryceKappes/todoodle/static/css/main.6f2c0c21.chunk.css.map",
-    "static/js/2.4032480d.chunk.js.LICENSE.txt": "/BryceKappes/todoodle/static/js/2.4032480d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/BryceKappes/todoodle/static/media/hole.f20280ef.gif"
+    "main.css": "/github.io//todoodle/static/css/main.86f987a8.chunk.css",
+    "main.js": "/github.io//todoodle/static/js/main.f90e284d.chunk.js",
+    "main.js.map": "/github.io//todoodle/static/js/main.f90e284d.chunk.js.map",
+    "runtime-main.js": "/github.io//todoodle/static/js/runtime-main.344b0429.js",
+    "runtime-main.js.map": "/github.io//todoodle/static/js/runtime-main.344b0429.js.map",
+    "static/css/2.aea14d57.chunk.css": "/github.io//todoodle/static/css/2.aea14d57.chunk.css",
+    "static/js/2.1882be53.chunk.js": "/github.io//todoodle/static/js/2.1882be53.chunk.js",
+    "static/js/2.1882be53.chunk.js.map": "/github.io//todoodle/static/js/2.1882be53.chunk.js.map",
+    "static/js/3.822d7fad.chunk.js": "/github.io//todoodle/static/js/3.822d7fad.chunk.js",
+    "static/js/3.822d7fad.chunk.js.map": "/github.io//todoodle/static/js/3.822d7fad.chunk.js.map",
+    "index.html": "/github.io//todoodle/index.html",
+    "static/css/2.aea14d57.chunk.css.map": "/github.io//todoodle/static/css/2.aea14d57.chunk.css.map",
+    "static/css/main.86f987a8.chunk.css.map": "/github.io//todoodle/static/css/main.86f987a8.chunk.css.map",
+    "static/js/2.1882be53.chunk.js.LICENSE.txt": "/github.io//todoodle/static/js/2.1882be53.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github.io//todoodle/static/media/hole.f20280ef.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.81c458a5.js",
+    "static/js/runtime-main.344b0429.js",
     "static/css/2.aea14d57.chunk.css",
-    "static/js/2.4032480d.chunk.js",
-    "static/css/main.6f2c0c21.chunk.css",
-    "static/js/main.903c789b.chunk.js"
+    "static/js/2.1882be53.chunk.js",
+    "static/css/main.86f987a8.chunk.css",
+    "static/js/main.f90e284d.chunk.js"
   ]
 }
